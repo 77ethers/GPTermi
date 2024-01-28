@@ -24,7 +24,7 @@ To bring the capabilities of GPTermi to your desktop, follow these steps:
    
    Start by cloning the repository to your local machine using git:
    ```sh
-   git clone https://github.com/yourusername/GPTermi.git
+   git clone https://github.com/77ethers/GPTermi.git
    cd GPTermi
    ```
 

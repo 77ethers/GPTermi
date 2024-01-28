@@ -5,7 +5,7 @@ from tkterminal import Terminal
 import json
 
 
-api_key="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"
+api_key=""
 
 def send_to_gpt():
     user_input = user_entry.get()
